@@ -1,1 +1,1 @@
-<h2>Hi, I'm Nhat! <br/><a>Computer Science & Cybersecurity Student</a></h2>
+<h2>Hi, I'm Nhat! <br/><a>Computer Science Graduate</a></h2>
